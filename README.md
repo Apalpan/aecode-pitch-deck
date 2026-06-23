@@ -27,7 +27,7 @@ Deck de 21 slides:
 7. Producto / Video Demo
 8. Innovacion tecnologica
 9. Mercado
-10. Modelo B2C2B
+10. Modelo B2B2C
 11. Modelo de negocio
 12. Traccion
 13. Comunidad y validacion
@@ -48,7 +48,7 @@ Deck de 21 slides:
 - TAM US$360M, SAM US$87.5M, SOM 3 anos US$2.5M.
 - US$30K en 2024, US$120K en 2025, US$220K E en 2026.
 - +95K comunidad, +10K estudiantes, 14 paises, +100 alianzas, +200 expertos, +12 clientes B2B.
-- Ask US$125K: 60% IA + plataforma, 30% growth B2C2B + expansion LATAM, 10% microlearning on-demand.
+- Ask US$125K: 60% IA + plataforma, 30% growth B2B2C + expansion LATAM, 10% microlearning on-demand.
 
 ## Fuente de contenido
 
