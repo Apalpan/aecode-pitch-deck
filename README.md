@@ -1,40 +1,50 @@
-# AECODE — Pitch Deck 5 minutos · 21 slides
+# AECODE Pitch Deck
 
-Pitch deck de inversión autocontenido (un solo `index.html`, sin build ni dependencias).
-Versión condensada para presentar en ~5 minutos. Hermano del *deck maestro* (file de
-entendimiento avanzado) — este es el **pitch para jurado / inversionista**.
+Presentacion web de 5 minutos para AECODE Startup.
 
-**Live:** https://apalpan.github.io/aecode-pitch-deck/
+## URL publica
 
-## Modo guion (notas del orador)
+https://apalpan.github.io/AECODE-Pitch-Deck/
 
-Cada slide incluye su **guion**. Pulsa **`N`** (o el botón ✎) para abrir el panel de guion del orador
-abajo; se actualiza solo al cambiar de slide. Ideal para ensayar o leer en una segunda pantalla.
+## Uso
 
-## Controles
+- Abrir `index.html` o la URL publica.
+- Usar flechas izquierda/derecha o espacio para navegar.
+- Boton `Guion`: muestra u oculta notas del presentador.
+- Boton `5:00`: timer para ensayo.
+- Boton `PDF`: abre impresion del deck.
 
-- **Navegar**: `←` / `→` o barra espaciadora · rueda del mouse · clic en los bordes · swipe en móvil.
-- **Guion**: `N` o ✎ · **Índice**: `O` o ☰ · **Auto-play**: `P` (≈14 s/slide → ~5 min).
-- **Tema**: `T` (mix combinado → oscuro → claro) · **Pantalla completa**: `F`.
-- **Responsive**: 16:9 en escritorio; reflow real en móvil/vertical.
+## Contenido
 
-## Diseño
+Deck de 21 slides:
 
-Design system OFICIAL AECODE: **Manrope**, navy `#0E1121`, violeta `#4A3AC1`, verde `#17B14E`,
-azul `#4465EE`. Light + dark combinado. Logos reales + Aecodito. Gráficas: barras, barras apiladas
-(revenue mix), TAM/SAM/SOM, donut (ask), timeline (roadmap) y diagramas de flujo.
+1. Hook
+2. Oportunidad
+3. Cambio inevitable
+4. Problema
+5. Costo real
+6. Solucion
+7. Producto
+8. Demo
+9. IA
+10. Mercado
+11. B2B2C
+12. Modelo
+13. Traccion
+14. Revenue mix
+15. Growth
+16. Metrica norte
+17. Diferenciacion
+18. Roadmap
+19. Equipo
+20. Ask
+21. Cierre
 
-## Iterar
+## Fuentes de soporte
 
-Todo el contenido (texto + guion) vive en la lista `SLIDES` de `build_pitch.py`
-(cada slide: `S(theme, capítulo, layout, contenido, notes)`). Edita y regenera:
+- McKinsey, `The next normal in construction`: grandes proyectos suelen terminar 20% mas tarde y hasta 80% sobre presupuesto.
+- Autodesk/FMI, `Construction Disconnected`: profesionales de construccion pueden dedicar 35% de su tiempo a actividades no productivas.
 
-```bash
-python build_pitch.py
-```
+## Deploy
 
-## Estructura (21 slides)
-
-Hook · Oportunidad · Cambio inevitable · Problema · Costo real · Solución · Producto · Demo ·
-IA · Mercado · B2B2C · Modelo · Tracción · Revenue mix · Growth · Métrica norte · Diferenciación ·
-Roadmap · Equipo · Ask · Cierre.
+GitHub Pages despliega desde GitHub Actions usando `.github/workflows/pages.yml`.
