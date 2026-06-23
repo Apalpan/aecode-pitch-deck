@@ -1,10 +1,10 @@
-# AECODE Pitch Deck
+# AECODE Pitch Deck Final
 
-Presentacion web de 5 minutos para AECODE Startup.
+Presentacion web de 5 minutos para AECODE Startup, actualizada con la narrativa final vigente.
 
 ## URL publica
 
-https://apalpan.github.io/AECODE-Pitch-Deck/
+https://apalpan.github.io/aecode-pitch-deck/
 
 ## Uso
 
@@ -20,30 +20,39 @@ Deck de 21 slides:
 
 1. Hook
 2. Oportunidad
-3. Cambio inevitable
-4. Problema
-5. Costo real
+3. Por que ahora
+4. Problema central
+5. Dolor real
 6. Solucion
-7. Producto
-8. Demo
-9. IA
-10. Mercado
-11. B2B2C
-12. Modelo
-13. Traccion
-14. Revenue mix
-15. Growth
-16. Metrica norte
-17. Diferenciacion
-18. Roadmap
+7. Producto / Video Demo
+8. Innovacion tecnologica
+9. Mercado
+10. Modelo B2C2B
+11. Modelo de negocio
+12. Traccion
+13. Comunidad y validacion
+14. Go To Market
+15. Metrica norte
+16. Diferenciacion
+17. Roadmap
+18. Escalabilidad
 19. Equipo
 20. Ask
 21. Cierre
 
-## Fuentes de soporte
+## Cifras visibles
 
-- McKinsey, `The next normal in construction`: grandes proyectos suelen terminar 20% mas tarde y hasta 80% sobre presupuesto.
-- Autodesk/FMI, `Construction Disconnected`: profesionales de construccion pueden dedicar 35% de su tiempo a actividades no productivas.
+- +280M personas trabajan en construccion.
+- 92% de proyectos terminan con sobrecostos o retrasos.
+- 44% de habilidades cambiaran en los proximos 5 anos.
+- TAM US$360M, SAM US$87.5M, SOM 3 anos US$2.5M.
+- US$30K en 2024, US$120K en 2025, US$220K E en 2026.
+- +95K comunidad, +10K estudiantes, 14 paises, +100 alianzas, +200 expertos, +12 clientes B2B.
+- Ask US$125K: 60% IA + plataforma, 30% growth B2C2B + expansion LATAM, 10% microlearning on-demand.
+
+## Fuente de contenido
+
+El deck publico se renderiza desde `app.js`. El detalle completo de cada slide vive en el panel `Guion`.
 
 ## Deploy
 
